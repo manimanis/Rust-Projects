@@ -7,6 +7,7 @@ fn main() {
     main3()
 }
 
+#[allow(unused)]
 fn main1() {
     // Variables can be type annotated.
     let logical: bool = true;

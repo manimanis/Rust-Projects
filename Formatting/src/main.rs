@@ -1,3 +1,4 @@
+#[allow(unused)]
 use std::fmt::{Binary, Formatter, write};
 
 fn main() {
